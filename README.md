@@ -1,8 +1,8 @@
 # Interesting Software Engineering Article -- Ishana Goyal
 
-##[Software Engineering Fundamentals for Data Scientists](https://towardsdatascience.com/software-engineering-fundamentals-for-data-scientists-6c95316d6cc4)
+## [Software Engineering Fundamentals for Data Scientists](https://towardsdatascience.com/software-engineering-fundamentals-for-data-scientists-6c95316d6cc4)
 
-I found this article particularly interesting because this summer I worked a data analyst for an equities fund. However, I noticed a lot of inefficiences in the code I was writing day-to-day, and this article summarized a ton of different ways to improve my code by incorporating software engineering fundamentals. 
+I found this article particularly interesting because this summer I worked a data analyst for an equities fund. However, I noticed a lot of inefficiencies in the code I was writing day-to-day, and this article summarized a ton of different ways to improve my code by incorporating software engineering fundamentals. 
 
 Here is a brief summary of my takeaways:
 - Modular code is super important -- this means building classes with attributes and methods so that it easier to productionize my code and reuse modules in other programs. 
