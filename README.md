@@ -13,3 +13,4 @@ Here is a brief summary of my takeaways:
 Hopefully I can apply some of these software engineering fundamentals (and more that I learn throughout the semester) to my data science functions!
 
 
+- Shannon Huang's Comment: I also found this article super helpful! It's interesting  that a lot of these ideas seem pretty intuitive--such as writing clean code--but at the same time, they show that there's a clear difference in simply getting software built and getting it built in an efficient and systematic way.
